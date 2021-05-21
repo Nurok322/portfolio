@@ -12,6 +12,6 @@
     <a href="https://www.instagram.com/snorlax.nurok/"><img src="D:\Программирование\VSCODE\instagram.png" alt="ссылка_на_инстаграм"></a>
     <h1>Nurtilek Zhumabaev</h1>
     <h2>Unemployee</h2>
-    <h3>0 points Numerical Methods</h3>
+    <h3>0 points Numerical Methods,4 points Prof math</h3>
 </body>
 </html>portfolio
